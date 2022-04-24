@@ -1,12 +1,12 @@
 // import logo from "./logo.svg";
-import cnn from "./CNN.png";
+import cnn from "./CNNPhone.png";
 
 import "./App.css";
 
 function App() {
   const divStyle = {
     width: "100%",
-    height: "100%",
+    // height: "100%",
   };
   return (
     <div className="App">
